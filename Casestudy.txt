@@ -1,0 +1,8 @@
+## Case Study: UPI Fraud
+
+UPI fraud is a common cybercrime where users are tricked into sending money through fake payment requests. In many cases, fraudsters send a request claiming it is for receiving money, but when the user enters the PIN, money gets deducted.
+
+Typically, scammers contact users via phone or social media and ask them to approve a payment request. Many students and new users fall victim due to lack of awareness.
+
+The consequences include financial loss and data misuse. Victims often find it difficult to recover their money.
+
